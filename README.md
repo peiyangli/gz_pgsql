@@ -1,0 +1,9 @@
+gz_pgsql
+=====
+
+An OTP application
+
+Build
+-----
+
+    $ rebar3 compile
